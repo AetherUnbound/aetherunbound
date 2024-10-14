@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there, I'm Madison! 💖
+
+I'm an experienced data engineer passionate about open source, automation, and maintainable code.
+
+I'm currently looking for a role as a **Lead or Staff Data Engineer**.
+
+<!-- # Projects -->
 
 <!--
 **AetherUnbound/aetherunbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
