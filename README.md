@@ -4,36 +4,23 @@ I'm an experienced data engineer passionate about open source, automation, and m
 
 I'm currently looking for a role as a **Lead or Staff Data Engineer**.
 
-# Projects
+###  Projects
+- [Openverse](https://github.com/WordPress/openverse) - a search engine for openly licensed media _(Core Contributor)_
+- [OpenOversight](https://github.com/OrcaCollective/OpenOversight) - a platform for tracking police misconduct _(Primary Maintainer)_
+- Other notable contributions:
+    - [Apache Airflow](https://github.com/apache/airflow/commits?author=AetherUnbound)
+    - [CellProfiler](https://github.com/CellProfiler/CellProfiler/commits?author=AetherUnbound)
+    - [Numpy](https://github.com/numpy/numpy/commits?author=AetherUnbound)
+    - [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio/commits?author=AetherUnbound)
 
-## Openverse
+### Talks & Podcasts
 
-![Openverse Banner](_static/openverse_banner.svg)
-
-[Openverse](https://openverse.org) is a search engine for openly licensed media.
-I've been a core committer to the project since 2021, working on all aspects of the
-stack including the data pipeline, infrastructure, and community management.
-
-**Repository**: [WordPress/openverse](https://github.com/WordPress/openverse)
-
-## OpenOversight
-
-![OpenOversight Banner](_static/openoversight_banner.png)
-
-[SPD.watch](https://spd.watch) is a Seattle-area fork of the [OpenOversight](https://openoversight.com/) platform for tracking police misconduct in the United States. I initially created this fork in 2020 to track Seattle Police Department misconduct, and have since expanded it alongside other contributors to include other local law enforcement agencies.
-
-**Repository**: [OrcaCollective/OpenOversight](https://github.com/OrcaCollective/OpenOversight)
-
-## Other notable contributions
-- [Apache Airflow](https://github.com/apache/airflow/commits?author=AetherUnbound)
-- [CellProfiler](https://github.com/CellProfiler/CellProfiler/commits?author=AetherUnbound)
-- [Numpy](https://github.com/numpy/numpy/commits?author=AetherUnbound)
-- [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio/commits?author=AetherUnbound)
-
-# Talks & Podcasts
-
-
-[![Airflow Summit 2023](https://img.youtube.com/vi/z_BkpAA0RkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=z_BkpAA0RkA)
+- [Airflow Summit 2023: "Forging the Future: Five years of fabricating with Airflow"](https://www.youtube.com/watch?v=z_BkpAA0RkA)
+- [PyData 2023: "Managing a search engine for over 600 million openly licensed media records"](https://www.youtube.com/watch?v=R0YqPAhKMhs)
+- [Airflow Summit 2021: "Dataclasses as Pipeline Definitions in Airflow"](https://www.youtube.com/watch?v=ja2siGyklq0)
+- [PythonBytes Podcast (Episode 268): "Wait, you can Google that?"](https://www.youtube.com/watch?v=CWzPMqp5UeA)
+- [Women Who Code (2022): "Introduction to Open Source and Python Web APIs with Openverse"](https://www.youtube.com/watch?v=JHRSre--ARU)
+- [Real Python Podcast (Episode 159): "Volunteering, Organizing, and Finding a Python Community"](https://www.youtube.com/watch?v=qmGpW1w3ENk)
 
 <!--
 **AetherUnbound/aetherunbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
