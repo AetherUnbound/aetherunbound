@@ -15,6 +15,7 @@ I'm currently looking for a role as a **Lead or Staff Data Engineer**.
 
 ### Talks & Podcasts
 
+- [Airflow Summit 2024: "Airflow 3 - Roadmap Discussion"](https://www.youtube.com/watch?v=GYJL1kOKFz0)
 - [Airflow Summit 2023: "Forging the Future: Five years of fabricating with Airflow"](https://www.youtube.com/watch?v=z_BkpAA0RkA)
 - [PyData 2023: "Managing a search engine for over 600 million openly licensed media records"](https://www.youtube.com/watch?v=R0YqPAhKMhs)
 - [Airflow Summit 2021: "Dataclasses as Pipeline Definitions in Airflow"](https://www.youtube.com/watch?v=ja2siGyklq0)
