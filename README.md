@@ -22,3 +22,7 @@ I'm currently looking for a role as a **Lead or Staff Data Engineer**.
 - [PythonBytes Podcast (Episode 268): "Wait, you can Google that?"](https://www.youtube.com/watch?v=CWzPMqp5UeA)
 - [Women Who Code (2022): "Introduction to Open Source and Python Web APIs with Openverse"](https://www.youtube.com/watch?v=JHRSre--ARU)
 - [Real Python Podcast (Episode 159): "Volunteering, Organizing, and Finding a Python Community"](https://www.youtube.com/watch?v=qmGpW1w3ENk)
+
+<div style="height: 0px;width: 0px;overflow:hidden;">
+<a rel="me" href="https://hachyderm.io/@aether"></a>
+</div>
