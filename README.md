@@ -2,8 +2,6 @@
 
 I'm an experienced data engineer passionate about open source, automation, and maintainable code.
 
-I'm currently looking for a role as a **Lead or Staff Data Engineer**.
-
 ###  Projects
 - [Openverse](https://github.com/WordPress/openverse) - a search engine for openly licensed media _(Core Contributor)_
 - [OpenOversight](https://github.com/OrcaCollective/OpenOversight) - a platform for tracking police misconduct _(Primary Maintainer)_
